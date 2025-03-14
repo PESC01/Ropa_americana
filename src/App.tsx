@@ -189,7 +189,7 @@ function App() {
               </div>
               <div className="flex items-center mb-4">
                 <Phone className="mr-2" />
-                <p>+1 (123) 456-7890</p>
+                <p>+59161671615</p>
               </div>
               <div className="flex space-x-4 mt-6">
                 <Facebook className="cursor-pointer hover:text-blue-600" />
