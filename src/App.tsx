@@ -10,7 +10,7 @@ function App() {
     const message = product
       ? `Hola, me interesa el producto: ${product.title} - ${product.price} Bs`
       : 'Hola, me gustaría obtener más información sobre sus productos';
-    window.open(`https://wa.me/1234567890?text=${encodeURIComponent(message)}`, '_blank');
+    window.open(`https://wa.me/+59161671615?text=${encodeURIComponent(message)}`, '_blank');
   };
 
   const categories = [
